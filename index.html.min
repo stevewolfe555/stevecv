@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<title>Stephen Wolfe's CV Wesbite</title>
+<link href='http://fonts.googleapis.com/css?family=Advent+Pro' rel='stylesheet' type='text/css'>
+<link href="css/bootstrap.min.css" rel=stylesheet>
+<link href="css/style.css" rel=stylesheet>
+<link href="css/lightbox.css" rel=stylesheet>
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="jumbotron cover-image">
+<div class="social-icons ">
+<ul id=services>
+<a href="https://www.facebook.com/st3ph3en" target=_new title="Stephen Wolfe's Facebook profile">
+<li>
+<div class=entypo-facebook></div>
+<span>Facebook</span>
+</li>
+</a>
+<a href="https://twitter.com/BscSteveWolfe" target=_new title="Stephen Wolfe's Twitter profile">
+<li>
+<div class=entypo-twitter></div>
+<span>Twitter</span>
+</li>
+</a>
+<a href="https://linkedin.com/in/stephenwolfe1/" target=_new title="Stephen Wolfe's LinkedIn profile">
+<li>
+<div class=entypo-linkedin></div>
+<span>LinkedIn</span>
+</li>
+</a>
+</ul>
+</div>
+</div>
+<div class=container>
+<div class="row header-spacer">
+<div class="col-sm-6 col-md-4 col-lg-3">
+<img class=profile-image src="img/steve.jpg">
+</div>
+<div class="col-sm-6 col-md-8 col-lg-9 title-spacer">
+<h1>Stephen Wolfe&nbsp;</h1>
+<h2>Curriculum Vitae</h2>
+<div id=skills>
+<h3>PHP / MYSQL / MVC / HTML(5) / CSS(3) / JQUERY / JS / WORDPRESS / ADOBE SUITE / LINUX / CENTOS</h3>
+</div>
+</div>
+</div>
+</div>
+<div class=container>
+<div class=row>
+<div class=col-lg-12>
+<h2 class=section-title>About</h2>
+<p>I am a highly self-motivated individual full of innovative ideas and concepts. I enjoy being thrown head first into exciting opportunities and being faced with new challenges. I can work collaboratively in diverse teams and believe myself to be a fantastic team player. I can also competently and confidently manage a team using my excellent communication and leadership skills which I have learnt throughout my career.</p>
+<p>I currently work for myself offering my clients a range of online solutions focusing around Website Development, Internet Marketing and Support.</p>
+<p>Continually developing my skills I research and practice some of the latest technologies and methodologies for implementing my work. When working on larger projects I take the opportunity to hire in freelancers where by I can expand on my management skills.</p>
+</div>
+</div>
+<div class=row>
+<div class=col-lg-12>
+<h2 class=section-title>Transferable Skills</h2>
+<p><strong>Time management</strong> - This skill has been developed from running projects of my own and assessing the scope clearly in order to plan my time effectively.</p>
+<p><strong>Team working</strong> - I am a great team player I work to towards making sure that I work well with everyone in my team in order to achieve the best result.</p>
+<p><strong>Self motivation and initiative</strong> - From being the only IT personnel in a small business to working for myself I have had to use initiative to set myself projects and manage them.</p>
+<p><strong>Entrepreneurship</strong> - To me this means working towards the goals of the business and not just doing your job. I believe in going outside of the role and identifying new approaches and concepts to help develop the business.</p>
+<p><strong>Communication</strong> - Many believe me to be out going I find it very easy to approach people and build rapport. In my working career I have been able to adapt this skill into sales roles, reporting to management on a non technical level and talking through ideas with clients.</p>
+</div>
+</div>
+<div class=row>
+<div class=col-sm-6>
+<div class=row>
+<div class=col-lg-12>
+<h2 class=section-title>Likes / Activities</h2>
+</div>
+<div class=col-xs-6>
+<ul>
+<li>Teamwork</li>
+<li>Hackathons</li>
+<li>Running</li>
+<li>Gym</li>
+</ul>
+</div>
+<div class=col-xs-6>
+<ul>
+<li>Learning</li>
+<li>Building</li>
+<li>Skiing</li>
+</ul>
+</div>
+</div>
+</div>
+<div class=col-sm-6>
+<div class=row>
+<div class=col-lg-12>
+<h2 class=section-title>Education Highlights</h2>
+<div class=row>
+<div class=col-lg-12>
+<h3>Bournemouth University</h3>
+<p><strong>2:1</strong> BSc Business Information Technology 2007 - 2011</p>
+<div class=row>
+<div class=col-sm-6>
+<p><strong><em>Units covered</em></strong><br>
+<strong><em>4th year</em></strong><br>
+Management in computing<br>
+Business entrepreneurship<br>
+Business requirements engineering</p>
+</div>
+<div class=col-sm-6>
+<p><strong><em>2th year</em></strong><br>
+Networks security<br>
+Programming (Java/PHP)<br>
+Systems design<br>
+Integrating team projects<br>
+Business context<br>
+Data management</p>
+</div>
+</div>
+</div>
+</div>
+<div class=row>
+<div class=col-lg-12>
+<h3>Hertford Regional College</h3>
+<p><strong>MMM</strong> Btec National Diploma ICT Systems Support 2004 - 2006</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=row>
+<div class=col-xs-12>
+<h2 class=section-title>Work / Portfolio</h2>
+<div class=row>
+<a href="img/printed-easy/homepage.png" data-lightbox=printed-easy data-title="Printed Easy"><div class="col-xs-12 col-sm-6 col-md-3 printed-easy-icon thumb"></div>&nbsp;</a>
+<div class="col-sm-6 col-md-9">
+<h3>Printed Easy Jul 2014 - Dec 2014</h3>
+<p>This project was to build a new website allowing Printed Easy to maintain inhouse control over custom product options and generally bring the site up to date. Old customers and orders had to be imported from their previous bespoke site.</p>
+<p><a href="http://dev.printedeasy.com">dev.printedeasy.com</a></p>
+<h4>Key Features:</h4>
+<span class="icon wordpress"></span>
+<span class="icon jquery"></span>
+<span class="icon woocommerce"></span>
+<span class="icon trustpilot"></span>
+<span class="icon bootstrap"></span>
+<ul>
+<li>Bespoke product pages</li>
+<li>Data imports</li>
+<li>PDF Invoices</li>
+<li>Report creation</li>
+<li>Admin panel</li>
+<li>SVN setup</li>
+</ul>
+</div>
+</div>
+<hr/>
+<div class=row>
+<a href="img/aliunlimited/homepage.png" data-lightbox=aliunlimited data-title="Ali Unlimited"><div class="col-xs-12 col-sm-6 col-md-3 aliunlimited-icon thumb"></div>&nbsp;</a>
+<div class="col-sm-6 col-md-9">
+<h3>Ali Unlimited Dec 2014</h3>
+<p>Ali Unlimited needed to move their website to a new hosting service and contacted me. When I explored their current website I found out it was using a subscription based CMS. As I did not provide this service I offered to remake the site as custom wordpress theme and offer them training on the new CMS.</p>
+<h4>Key Features:</h4>
+<span class="icon wordpress"></span>
+<span class="icon bootstrap"></span>
+<ul>
+<li>Custom theme</li>
+<li>Email setup</li>
+<li>Hosting services</li>
+<li>Training</li>
+<li>Social connections</li>
+<li>Newsletter integration</li>
+</ul>
+</div>
+</div>
+<hr/>
+<div class=row>
+<a href="img/myfibre/homepage.png" data-lightbox=myfibre data-title=MyFibre><div class="col-xs-12 col-sm-6 col-md-3 myfibre-icon thumb"></div>&nbsp;</a>
+<div class="col-sm-6 col-md-9">
+<h3>MyFibre Nov 2014</h3>
+<p>MyFibre approached me to help them create their first online presence. After talking with them it was established they would be requiring a website, VOIP number, online advertising and some basic SEO.</p>
+<h4>Key Features:</h4>
+<span class="icon wordpress"></span>
+<span class="icon bootstrap"></span>
+<ul>
+<li>Google Adwords</li>
+<li>Basic SEO</li>
+<li>Branding</li>
+<li>VOIP switchboard</li>
+<li>Custom theme</li>
+<li>Email setup</li>
+<li>Hosting services</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=container>
+<div class=row>
+<div class=col-lg-12>
+<h2 class=section-title>Reviews</h2>
+<h3>Osteotec</h3>
+<p>Hi Steve, many thanks for all your help over the last year or so, you did a great job.</p>
+<p><em>Rob Sawyer - Commercial & Technical Manager July 2014</em></p>
+<hr/>
+<h3>Life Change Fitness</h3>
+<p>Stephen Wolfe designed and made my website and I cannot recommend them enough. The website was made very easy on the eye and I have had a lot of great comments from it since then. My knowledge on computers/websites is awful so it was great how they got exactly what I needed, quickly, and went away and produced the website. Interweb60 is very professional and works to an extremely high standard. As I said, I cannot recommend him enough.</p>
+<p><em>Rob - Owner June 2013</em></p>
+<hr/>
+<h3>HMF Group</h3>
+<p>Stephen has built several web sites for me and provides an ongoing support service. I highly recommend his professional services and would be happy to provide an excellent reference.</p>
+<p><em>Colin Harris 2012</em></p>
+</div>
+</div>
+</div>
+<div class="jumbotron footer">
+<div class=container>
+<div class=row>
+<div class=col-lg-12>
+<p>Copyright &copy; Interweb360 2014 Data Protection: Z3438223</p>
+</div>
+</div>
+</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/lightbox.min.js"></script>
+<script src="js/prefixfree.min.js"></script>
+</body>
+</html>
